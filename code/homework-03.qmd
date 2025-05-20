@@ -1,0 +1,11 @@
+---
+title: "homework-03"
+author: "Li-An Lim"
+format: html
+editor: visual
+---
+
+```{r packages}
+library(tidyverse)
+library(lterdatasampler)
+```
